@@ -9,7 +9,7 @@ Titolo
 
 Titolo 2
 --------
-- [x] Fatto
+- [x] Fatto nuovo
 - [ ] Da fare
 
 <!---
